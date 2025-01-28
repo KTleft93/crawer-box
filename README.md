@@ -16,11 +16,11 @@ A Python script using **Selenium WebDriver** to automate navigation on [BoxRec.c
 ```bash
 pip install selenium
 pip install webdriver-manager
-
-License
+```
+## License
 
 This project is licensed under the MIT License.
 
-Disclaimer
+## Disclaimer
 
 This tool is for educational purposes only. Ensure compliance with BoxRec's Terms of Service.
